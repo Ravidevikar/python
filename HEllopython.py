@@ -1,0 +1,6 @@
+print("Hello python")
+print("Hello")
+print("python")
+print("MySirG")
+print("Teacher'day")
+print("Ravi Devikar")
